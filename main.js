@@ -16,4 +16,4 @@ function calc(operation, firstnumber, secondnumber) {
     }
 }
 console.log(calc('sum', 4, 2));
-
+console.log(calc('div', 6, 4));
